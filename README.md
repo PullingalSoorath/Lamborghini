@@ -1,4 +1,5 @@
 # Lamborghini Website clone
+## Getting Started[click here](https://pullingalsoorath.github.io/Lamborghini/).
 
 Welcome to the Lamborghini Website project! This project showcases a meticulously designed website for the world-famous Lamborghini brand. Built using HTML and CSS, it offers a visually captivating user experience that pays homage to Lamborghini's reputation for excellence in the automotive industry.
 
@@ -8,9 +9,8 @@ Welcome to the Lamborghini Website project! This project showcases a meticulousl
 - **Seamless Navigation**: User-friendly menus and smooth transitions make exploring the website a breeze.
 - **Iconic Cars Presentation**: The website effectively showcases Lamborghini's iconic cars, highlighting their design and performance.
 
-## Getting Started
 
-To explore this Lamborghini website, simply [click here](https://pullingalsoorath.github.io/Lamborghini/).
+
 
 ## Contributing
 
